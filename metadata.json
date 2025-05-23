@@ -1,0 +1,6 @@
+{
+  "name": "PromptPerfect",
+  "description": "An intelligent web application to help you generate detailed and effective prompts for AI models, based on your ideas. Uses OpenRouter for AI capabilities.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
